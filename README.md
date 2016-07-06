@@ -1,7 +1,9 @@
 # jurgen-dejager.github.io
 
-# my_user_name.github.io
- Copyright @ My Name
+
+ Copyright @ Jurgen de Jager
+ 
 ## Description
+
 This will be the main portfolio page for the My Name. I am
 currently located in New York City.
